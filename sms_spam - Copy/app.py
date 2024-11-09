@@ -68,7 +68,6 @@ if st.button('submit'):
 
 
 
-if st.button('reset'):
-    st.empty()
+
    
 
